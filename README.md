@@ -34,4 +34,4 @@ Aplikasi CRUD sederhana untuk mempelajari pola Model-View-Controller pada PHP Na
 
 ## Histori Git
 
-Gunakan `git log --oneline --graph --decorate` untuk melihat tahapan pengembangan.
+![Screenshot Git Log](images/gitlog.png)
